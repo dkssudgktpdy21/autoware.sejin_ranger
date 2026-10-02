@@ -1,0 +1,10 @@
+# AgileX Ranger Mini 3.0 차량·센서 패키지 (비공개 저장소 — 호스트에서 GitHub 로그인 상태로 받는다)
+repositories:
+  vehicle/ranger_mini_vehicle_launch:
+    type: git
+    url: https://github.com/dkssudgktpdy21/ranger_mini_vehicle_launch.git
+    version: main
+  sensor_kit/ranger_mini_sensor_kit_launch:
+    type: git
+    url: https://github.com/dkssudgktpdy21/ranger_mini_sensor_kit_launch.git
+    version: main
